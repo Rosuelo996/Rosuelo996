@@ -25,32 +25,4 @@ Projects include Skinstric, Movie Vault and modern frontend applications focused
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Rosuelo996" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/stefano-w-673087182" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
 
-<b>My GitHub Stats</b>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rosuelo996&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Stefano's GitHub stats"/>
-</p>
-
-<b>Top Repositories</b>
-
-<p align="left">
-  <a href="https://github.com/Rosuelo996/Skinstric">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rosuelo996&repo=Skinstric&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"/>
-  </a>
-
-  <a href="https://github.com/Rosuelo996/Movie-Vault">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rosuelo996&repo=Movie-Vault&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Rosuelo996/Library-React">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rosuelo996&repo=Library-React&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"/>
-  </a>
-
-  <a href="https://github.com/Rosuelo996/Car-Subscription">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rosuelo996&repo=Car-Subscription&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"/>
-  </a>
-</p>
