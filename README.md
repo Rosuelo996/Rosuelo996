@@ -29,12 +29,28 @@ Projects include Skinstric, Movie Vault and modern frontend applications focused
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Rosuelo996"><img src="https://github-readme-stats.vercel.app/api?username=Rosuelo996&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rosuelo996's GitHub stats" /></a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rosuelo996&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Stefano's GitHub stats"/>
+</p>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Rosuelo996/Skinstric" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rosuelo996&repo=Skinstric&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Rosuelo996/Movie-Vault" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rosuelo996&repo=Movie-Vault&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<p align="left">
+  <a href="https://github.com/Rosuelo996/Skinstric">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rosuelo996&repo=Skinstric&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"/>
+  </a>
 
-<br /><br /><br /><br /><br />
+  <a href="https://github.com/Rosuelo996/Movie-Vault">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rosuelo996&repo=Movie-Vault&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"/>
+  </a>
+</p>
 
-<div width="100%" align="center"><a href="https://github.com/Rosuelo996/Library-React" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rosuelo996&repo=Library-React&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Rosuelo996/Car-Subscription" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rosuelo996&repo=Car-Subscription&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<p align="left">
+  <a href="https://github.com/Rosuelo996/Library-React">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rosuelo996&repo=Library-React&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"/>
+  </a>
+
+  <a href="https://github.com/Rosuelo996/Car-Subscription">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rosuelo996&repo=Car-Subscription&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"/>
+  </a>
+</p>
