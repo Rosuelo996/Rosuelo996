@@ -4,13 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer | React • Next.js • TypeScript
 -------------------------------------------------
 
-Frontend Developer based in London building responsive, production-style web applications using React, Next.js, TypeScript, Redux and REST APIs.
+Frontend Developer based in London building responsive web applications with React, Next.js, TypeScript and modern frontend tooling.
 
-I transitioned into software development after several years leading teams and operations in fast-paced environments, bringing ownership, communication and problem-solving into product development.
+Previously led teams and operations in fast-paced environments, bringing ownership, communication and problem-solving into software development.
 
-My work focuses on creating polished user experiences, writing maintainable code and turning ideas into real, usable products.
-
-Projects include Skinstric, Movie Vault and modern frontend applications involving API integration, state management and responsive UI architecture.
+Built projects including Skinstric, Movie Vault and frontend applications involving API integration, state management and responsive UI.
 
 * 🌍  I'm based in London 🇬🇧
 * ✉️  You can contact me at [rosuelo996.sr@gmail.com](mailto:rosuelo996.sr@gmail.com)
