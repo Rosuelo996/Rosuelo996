@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer | React • Next.js • TypeScript
 -------------------------------------------------
 
-Frontend Developer based in London building responsive web applications with React, Next.js, TypeScript and modern frontend tooling.
+Frontend Developer based in London building responsive web applications with React, Next.js, TypeScript and modern frontend technologies.
 
 Previously led teams and operations in fast-paced environments, bringing ownership, communication and problem-solving into software development.
 
