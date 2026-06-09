@@ -6,11 +6,11 @@ Frontend Developer | React • Next.js • TypeScript
 
 Frontend Developer based in London building responsive, production-style web applications using React, Next.js, TypeScript, Redux and REST APIs.
 
-Graduate of the Frontend Simplified Frontend Development Bootcamp with hands-on experience delivering real-world projects and completing a practical internship.
+I transitioned into software development after several years leading teams and operations in fast-paced environments, bringing ownership, communication and problem-solving into product development.
 
-Previously worked in leadership and operations management, bringing ownership, communication and problem-solving skills into software development.
+My work focuses on creating polished user experiences, writing maintainable code and turning ideas into real, usable products.
 
-Projects include Skinstric, Movie Vault and modern frontend applications focused on performance and user experience.
+Projects include Skinstric, Movie Vault and modern frontend applications involving API integration, state management and responsive UI architecture.
 
 * 🌍  I'm based in London 🇬🇧
 * ✉️  You can contact me at [rosuelo996.sr@gmail.com](mailto:rosuelo996.sr@gmail.com)
